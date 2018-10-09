@@ -5951,3 +5951,36 @@ Responsive layouts style
   100% {
     transform: translate(-28px, 0);
     transform: translate(-28px, 0); } }
+
+
+
+/*james*/
+
+
+.icon-Filter-2{
+  display : none;
+}
+
+.icon-Speach-Bubbles{
+  display : none;
+}
+
+.icon-Envelope{
+  display : none;
+}
+
+.icon-Home{
+  display : none;
+}
+
+.badge badge-primary d-block text-white{
+  display : none;
+}
+
+.badge badge-primary d-block text-white{
+  display : none;
+}
+
+.form-control border0{
+  display : none;
+}
